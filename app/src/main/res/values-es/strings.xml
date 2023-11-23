@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnNombre">Nombre</string>
+    <string name="btnCurso">Curso</string>
+    <string name="btnLenguajes">Lenguajes</string>
+    <string name="btnNuevo">Nuevo registro</string>
+    <string name="alertNuevoTitulo">Nuevo Registro</string>
+    <string name="alertNuevoTexto">¿Quieres crear un nuevo registro?</string>
+    <string name="alertNuevoSi">Sí</string>
+    <string name="alertNuevoNo">No</string>
+    <string name="alertNombreTitulo">Introducir dato</string>
+    <string name="alertNombreTexto">Nombre</string>
+    <string name="alertNombreCancelar">Cancelar</string>
+    <string name="alertNombreAceptar">Aceptar</string>
+    <string name="alertCursoTitulo">Selecciona un curso</string>
+    <string name="alertCursoCancelar">Cancelar</string>
+    <string name="alertCursoAceptar">Aceptar</string>
+    <string name="alertLenguajesTitulo">Seleccione lenguajes</string>
+    <string name="alertLenguajesCancelar">Cancelar</string>
+    <string name="alertLenguajesAceptar">Aceptar</string>
+    <string name="alertLenguajesLimpiar">Limipiar todo</string>
+</resources>

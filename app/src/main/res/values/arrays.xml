@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cursos">
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>ASIR</item>
+    </string-array>
+    <string-array name="lenguajes">
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>C#</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+    </string-array>
+</resources>

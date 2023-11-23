@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Ficha Personal</string>
+    <string name="btnNombre">Name</string>
+    <string name="btnCurso">Course</string>
+    <string name="btnLenguajes">Languages</string>
+    <string name="btnNuevo">New registration</string>
+    <string name="alertNuevoTitulo">New Inscription</string>
+    <string name="alertNuevoTexto">Do you want to create a new registration?</string>
+    <string name="alertNuevoSi">Yes</string>
+    <string name="alertNuevoNo">No</string>
+    <string name="alertNombreTitulo">Enter data</string>
+    <string name="alertNombreTexto">Name</string>
+    <string name="alertNombreCancelar">Cancel</string>
+    <string name="alertNombreAceptar">Accept</string>
+    <string name="alertCursoTitulo">Select course</string>
+    <string name="alertCursoCancelar">Cancel</string>
+    <string name="alertCursoAceptar">Accept</string>
+    <string name="alertLenguajesTitulo">Select languages</string>
+    <string name="alertLenguajesCancelar">Cancel</string>
+    <string name="alertLenguajesAceptar">Accept</string>
+    <string name="alertLenguajesLimpiar">Clear all</string>
+</resources>
